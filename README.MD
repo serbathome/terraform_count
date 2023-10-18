@@ -1,0 +1,1 @@
+Example of terraform configuration that is conditionally creating module resources
